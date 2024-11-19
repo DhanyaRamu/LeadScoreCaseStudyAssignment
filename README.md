@@ -36,5 +36,5 @@
  
  Lead Score Case Study.pdf : Final Presentation
  
- Summary.pdf : Summary on what's done in the entire py file
+ Summary Report.pdf : Summary on what's done in the entire py file
   
