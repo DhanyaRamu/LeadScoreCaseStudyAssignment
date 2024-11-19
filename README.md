@@ -36,9 +36,5 @@
  
  Lead Score Case Study.pdf : Final Presentation
  
- Leads.csv : Data worked on
- 
- Leads Data Dictionary.xlsx : Data Dictionary
- 
  Summary.pdf : Summary on what's done in the entire py file
   
